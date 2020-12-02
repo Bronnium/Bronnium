@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: MBSE enthusiast
+- 🔭 Using Java & Python
 <!--
 **Bronnium/Bronnium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
